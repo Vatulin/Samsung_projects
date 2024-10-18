@@ -65,3 +65,7 @@ fun main() {
         }
     }
 }
+
+fun hello() {
+
+}
